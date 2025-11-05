@@ -14,3 +14,5 @@
 [2026-04-17T13:50:00] feat: add unit tests for utility functions
 
 [2025-11-03T10:22:00] feat: scaffold project structure with Next.js 14 App Router
+
+[2025-11-05T14:10:00] feat: setup Prisma schema with User, Job, Application models
