@@ -38,3 +38,5 @@
 [2026-02-07T14:30:00] feat: build admin panel for platform moderation
 
 [2026-02-12T11:00:00] chore: add GitHub Actions CI pipeline with lint and typecheck
+
+[2025-11-05T14:10:00] feat: setup Prisma schema with User Job Application models
