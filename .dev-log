@@ -22,3 +22,5 @@
 [2025-12-02T10:00:00] feat: build job listing page with server components
 
 [2025-12-05T14:30:00] feat: add job search with full-text filtering and pagination
+
+[2025-12-09T11:00:00] feat: create recruiter dashboard with posted jobs table
