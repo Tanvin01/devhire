@@ -54,3 +54,5 @@
 [2026-01-04T10:30:00] feat: add application tracking kanban board for job seekers
 
 [2026-01-08T14:00:00] feat: implement email notifications on application status change
+
+[2026-01-13T11:15:00] perf: add database indexes for job search query optimisation
