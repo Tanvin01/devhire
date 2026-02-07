@@ -34,3 +34,5 @@
 [2026-01-13T11:15:00] perf: add database indexes for job search query optimisation
 
 [2026-02-03T10:00:00] feat: add resume upload with Cloudinary storage integration
+
+[2026-02-07T14:30:00] feat: build admin panel for platform moderation
