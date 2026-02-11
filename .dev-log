@@ -6,3 +6,4 @@
 [2025-12-24T19:55:00] fix: handle edge case in form validation logic
 [2026-01-07T09:49:00] feat: add error boundary with fallback UI
 [2026-01-13T13:19:00] feat: add pagination to list views
+[2026-02-11T16:08:00] perf: memoize expensive computations with useMemo
