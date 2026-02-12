@@ -64,3 +64,5 @@
 [2026-02-07T14:30:00] feat: build admin panel for platform moderation
 
 [2026-03-07T14:00:00] perf: implement ISR for featured job listings
+
+[2026-02-12T11:00:00] chore: add GitHub Actions CI pipeline with lint and typecheck
