@@ -70,3 +70,5 @@
 [2026-03-11T11:30:00] docs: write comprehensive README with setup instructions
 
 [2026-03-03T10:15:00] fix: handle expired JWT sessions with silent refresh
+
+[2026-03-07T14:00:00] perf: implement ISR for featured job listings
