@@ -62,3 +62,5 @@
 [2026-03-03T10:15:00] fix: handle expired JWT sessions with silent refresh
 
 [2026-02-07T14:30:00] feat: build admin panel for platform moderation
+
+[2026-03-07T14:00:00] perf: implement ISR for featured job listings
