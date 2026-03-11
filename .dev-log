@@ -66,3 +66,5 @@
 [2026-03-07T14:00:00] perf: implement ISR for featured job listings
 
 [2026-02-12T11:00:00] chore: add GitHub Actions CI pipeline with lint and typecheck
+
+[2026-03-11T11:30:00] docs: write comprehensive README with setup instructions
