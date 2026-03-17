@@ -9,3 +9,4 @@
 [2026-02-11T16:08:00] perf: memoize expensive computations with useMemo
 [2026-03-01T15:14:00] docs: add architecture diagram to README
 [2026-03-14T16:50:00] feat: add responsive mobile navigation
+[2026-03-17T11:45:00] perf: memoize expensive computations with useMemo
