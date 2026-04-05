@@ -72,3 +72,5 @@
 [2026-03-03T10:15:00] fix: handle expired JWT sessions with silent refresh
 
 [2026-03-07T14:00:00] perf: implement ISR for featured job listings
+
+[2026-04-05T11:00:00] feat: deploy to Vercel with Supabase PostgreSQL integration
