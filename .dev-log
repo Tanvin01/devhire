@@ -90,3 +90,5 @@
 [2026-05-06T14:30:00] fix: improve mobile responsiveness of job card grid
 
 [2026-06-02T10:00:00] feat: add salary range filter with histogram visualisation
+
+[2026-06-05T14:15:00] fix: resolve race condition in application submission
